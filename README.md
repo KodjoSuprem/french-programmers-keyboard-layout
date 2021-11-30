@@ -2,7 +2,7 @@
 
 Modified US QWERTY layout with french accents and no dead keys.
 
-Not perfect and miss some accents (too rarely used to bother). 
+Not perfect and miss some accents (too rarely used to bother...). 
 
 Tailored for me so feel free to modify...
 
